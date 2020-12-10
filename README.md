@@ -9,4 +9,7 @@ Templates for Markdown documents
 ## Note
 * Zettlekasten: [English](Zettlekasten/Note.en.md), [简体中文](Zettlekasten/Note.zh-hans.md), [繁體中文](Zettlekasten/Note.zh-hant.md)
 
+## emotion/mood
+* [情绪简历](情绪/情绪简历.md)
+
 ## Personal Growth | Ability
