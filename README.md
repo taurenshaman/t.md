@@ -13,3 +13,4 @@ Templates for Markdown documents
 * [情绪简历](情绪/情绪简历.md)
 
 ## Personal Growth | Ability
+* [日记模板：十个模块](日记/ChatV-十个模块.md)
